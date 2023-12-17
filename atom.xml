@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://beartwo.cn</id>
+    <title>beartwo</title>
+    <updated>2023-12-17T06:28:21.560Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://beartwo.cn"/>
+    <link rel="self" href="https://beartwo.cn/atom.xml"/>
+    <subtitle>熊二小窝</subtitle>
+    <logo>https://beartwo.cn/images/avatar.png</logo>
+    <icon>https://beartwo.cn/favicon.ico</icon>
+    <rights>All rights reserved 2023, beartwo</rights>
+    <entry>
+        <title type="html"><![CDATA[第20届“外研社杯”全国中学生外语素养大赛复赛视频]]></title>
+        <id>https://beartwo.cn/post/2hig7tUDk/</id>
+        <link href="https://beartwo.cn/post/2hig7tUDk/">
+        </link>
+        <updated>2023-12-17T06:12:36.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[轻舟已过万重山]]></title>
+        <id>https://beartwo.cn/post/8Ffdq-zM4/</id>
+        <link href="https://beartwo.cn/post/8Ffdq-zM4/">
+        </link>
+        <updated>2023-07-27T02:17:27.000Z</updated>
+    </entry>
+</feed>
